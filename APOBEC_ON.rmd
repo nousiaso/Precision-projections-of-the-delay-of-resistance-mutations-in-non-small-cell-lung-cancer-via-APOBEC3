@@ -3,6 +3,7 @@ title: Code for the analyses of a Response article to the paper: "Therapy-induce
 author: "Orestis Nousias"
 date: "09/13/2023"
 
+#For installation of cancereffectsizeR follow the instructions at https://townsend-lab-yale.github.io/cancereffectsizeR/
 
 ##CODE
 
