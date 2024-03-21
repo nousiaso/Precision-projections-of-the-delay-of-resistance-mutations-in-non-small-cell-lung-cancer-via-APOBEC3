@@ -492,8 +492,8 @@ ggsave("all_signature_processes_plot.pdf", plot = p, width = 10, height = 7, dpi
 ggsave("all_signature_processes_plot.png", plot = p, width = 10, height = 7, dpi = 300)
 
 
-_______________________________________________________________________________
-_______________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
 
 #Time gained with R calculation
 
@@ -535,7 +535,7 @@ for (group_name in names(patient_groups)) {
   write.table(group_data, paste0(group_name, "_time_calc.txt"), sep = "\t", row.names = FALSE, quote = FALSE)
 }
 
-____________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
 
 #Do the same for the MGH086 patient with the added variants (or for the other three patients)
 
@@ -557,7 +557,7 @@ final_data <- data %>%
 # Step 3: Save the data to a new file
 write.table(final_data, "MGH10032_with_added_variants_time_calc.txt", sep = "\t", row.names = FALSE, quote = FALSE)
 
-__________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
 
 #Calculation part equation 1
 
@@ -581,7 +581,7 @@ total_estimated_time_gained <- ((1 / sum_suppressed_rate) - (1 / sum_variant_rat
 # Print the total estimated time gained for all rows
 print(paste("Total estimated time gained for all variants:", total_estimated_time_gained))
 
-__________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
 #Simpler version of equation 1 code for time gained COMPARING Suppressed with Variant rates, change the file name each time
 
 library(readr)
@@ -604,7 +604,7 @@ print(Tv)
 # Print the total estimated time gained for all rows
 print(paste("Total estimated time gained for all variants:", total_estimated_time_gained))
 
-
+____________________________________________________________________________________________________________________________________________________________________________
 #PLOTS FOR Ts and Tv
 
 #Plot Tv and Ts for each patient for observed and with all variants
