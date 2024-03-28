@@ -1,4 +1,4 @@
-# Response-article-to-Hideko-Isozaki-et-al.-APOBEC3A-drives-evolution-of-persistent-cancer-cells Nature 2023
+# Response-article-to-Hideko-Isozaki-et-al.-APOBEC3A-drives-evolution-of-persistent-cancer-cells _Nature_ 2023
 The code (along with Supplementary file 1) that was used for the analyses of the Response article to Isozaki et. al. 2023, using cancereffectsizeR a software package developed from the Townsend group at the Department of Biostatistics, Yale School of Public Health.
 
 R studio should is advised to be installed with the latest R version. While R studio is not mandatory it makes the process easier.
