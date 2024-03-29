@@ -3,7 +3,7 @@ The code (along with Supplementary file 1) that was used for the analyses of the
 
 R studio is suggested to be installed with the latest R version. While R studio is not mandatory it makes the process easier.
 
-Install cancereffectsizeR following the instructions at https://townsend-lab-yale.github.io/cancereffectsizeR/ . The additional libraries that are required to be installed are widely used R packages like dplyr and ggplot.
+Install cancereffectsizeR following the instructions at https://townsend-lab-yale.github.io/cancereffectsizeR/ . Additional libraries are widely used R packages like dplyr and ggplot.
 The data that are needed to run the analyses are downloaded via R code in the .rmd script therefore, having installed all necessary libraries the user can just run the code and produce the results.
 
 Some parts of the code need to be run multiple times altering the input files to generate different output files. 
