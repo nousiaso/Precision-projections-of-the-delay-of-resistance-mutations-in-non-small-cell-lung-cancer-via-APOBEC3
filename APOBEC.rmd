@@ -1,9 +1,7 @@
 ---
-title: "response article to Therapy-induced APOBEC3A drives
-evolution of persistent cancer cells"
+title: "Response article to Therapy-induced APOBEC3A drives
+evolution of persistent cancer cells, Nature 2023"
 author: "Orestis Nousias"
-date: "09/13/2023"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
