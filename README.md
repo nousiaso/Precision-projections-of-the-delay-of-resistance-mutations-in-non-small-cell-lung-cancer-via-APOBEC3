@@ -1,4 +1,4 @@
-# Response-article-to-Hideko-Isozaki-et-al.-APOBEC3A-drives-evolution-of-persistent-cancer-cells. __Nature__ 2023
+# Precision projections of the delay of resistance mutations in non-small cell lung cancer via APOBEC3A suppression
 The code (along with Supplementary files and Figures) that was used for the analyses of the Response article to Isozaki et. al. 2023, using cancereffectsizeR a software package developed from Mandell, J. D., Cannataro, V. L. & Townsend, J. P. of the Townsend lab at the Department of Biostatistics, Yale School of Public Health.
 
 R studio is suggested to be installed with the latest R version. While R studio is not mandatory it makes the process easier.
