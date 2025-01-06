@@ -1,4 +1,4 @@
-# Precision projections of the delay of resistance mutations in non-small cell lung cancer via APOBEC3A/3B suppression
+# Precision projections of the delay of resistance mutations in non-small cell lung cancer via suppression of APOBEC
 The code (along with Supplementary files and Figures) that was used for the analyses of the Precision projections of the delay of resistance mutations in non-small cell lung cancer via APOBEC3A/3B suppression, using cancereffectsizeR a software package developed from Mandell, J. D., Cannataro, V. L. & Townsend, J. P. of the Townsend lab at the Department of Biostatistics, Yale School of Public Health.
 
 R studio is suggested to be installed with the latest R version. While R studio is not mandatory it makes the process easier.
